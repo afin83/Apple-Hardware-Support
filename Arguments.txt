@@ -26,6 +26,14 @@ If a machine needs to be passed down to a user who is not comfortable using OSX,
 
 If the machine does reach end-of-life, it can be repurposed as a screen only using the displayport input on the rear. 
 
+Screen Size
+
+Proportional to productivity. Find report outlining this. 
+
+Compatability
+
+As can be seen from the past 12 months of use there have been no compatibility. Previous issues have all been resolved.
+
 Total Cost of Ownership (TCO)
 
 [FIND REPORT OF TCO IN ENTERPRISE ENVIRONMENT]
@@ -34,9 +42,7 @@ Conclusion
 
 In the end, this is just equipment we need to do our jobs. We're not saying it's far superior to other equipment, but for the work we want to do, and from our experience, we believe it's a better tool for us for our job. Not supporting equipment that a quarter of your staff are using does not make a lot of business sense, especially taking into account the lower purchase price and lower TCO. 
 
-Screen Size
-
-Proportional to productivity. Find report outlining this. 
+Quality Tools. You expect a high quality result but won't provide high quality tools. Expand on this.
 
 ---------------------
 
