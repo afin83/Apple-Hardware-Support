@@ -1,0 +1,47 @@
+Arguments
+
+Price is no longer a factor. This has been proven by the custom build from uMart (current supplier) and custom builds from dell for a similar specced machine. 
+
+Setup costs
+
+Setup costs have been included in the above price estimates. The equivalent setup cost is 0.
+
+Maintenance
+
+Maintenance is less of an issue. Currently, we have 3 developers who can be roped into hardware support when necessary, as well as new machine setup. Takes valuable time away from developers doing what they are supposed to be doing. It also means we currently have a reliance on these staff members, and if they are predisposed we would have issues as they are our only level of hardware support. 
+
+AppleCare provides a very high level of support, with turnaround times comparable or better to having staff go to a local retailer and picking up replacement parts etc. It's also far better than dell hardware support (in my experience) 
+
+Passing on of Hardware
+
+Typically, when an existing machine is passed down to a new developer, or if we have a new staff member starting, the machine is formatted and set up anew. The cost for this is comparable to the new machine setup listed. If an Apple computer needed to be handed off to a new staff member, the setup time consists of the new user creating a new account.
+
+Security
+
+OS-level security is higher, with a default set of elevated privileges required to install system-altering new software, change significant system settings etc. 
+
+Flexibility
+
+If a machine needs to be passed down to a user who is not comfortable using OSX, Windows can be quickly and easily installed under BootCamp. A driver pack is included. Windows and OSX can then be easily dual booted to ensure the machine can fit a number of rolls. 
+
+If the machine does reach end-of-life, it can be repurposed as a screen only using the displayport input on the rear. 
+
+Total Cost of Ownership (TCO)
+
+[FIND REPORT OF TCO IN ENTERPRISE ENVIRONMENT]
+
+Conclusion
+
+In the end, this is just equipment we need to do our jobs. We're not saying it's far superior to other equipment, but for the work we want to do, and from our experience, we believe it's a better tool for us for our job. Not supporting equipment that a quarter of your staff are using does not make a lot of business sense, especially taking into account the lower purchase price and lower TCO. 
+
+Screen Size
+
+Proportional to productivity. Find report outlining this. 
+
+---------------------
+
+THEIR ARGUMENTS	
+
+They are purchasing equipment at the lowest possible price. Staff like Tyson and Andrew have built their own machines (afaik). Ignoring the fact that this is a stupid situation to put your staff in, it does mean that they may not want to pay a preimum for anything, no matter the cost. In this case, the initial hardware purchase can't be compared
+
+The screen. $800 of purchase price, and not something that everybody needs. 
