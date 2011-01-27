@@ -30,7 +30,9 @@ Dell = ??
 - Researching parts and compatibility - NA  
 
 
-The counter to this argument is a number of the components included in the iMac are not necessary and a waste of money.  This is not true; the obvious extra expense is the large display - for the design team this is simply not an option, extra screen real-estate is key for improving efficiency when dealing with any design program (the 2560-by-1440 resolution is rare among display manufacturers).  For others, research conducted by independent technology research institute and consulting operation      
+The counter to this argument is that a number of the components included in the iMac are not necessary and a waste of money.  This is not true; the obvious extra expense is the large display - for the design team this is simply not an option, extra screen real-estate is key for improving efficiency and quality when dealing with any design program (the 2560-by-1440 resolution is rare among display manufacturers).  For others, research conducted by independent technology research institute and consulting operation Pfeiffer Consulting identified that large displays (specifically 30" cinema display) can result in measurable productivity and efficiency gains (see appendix).  
+
+In addition to this, the argument can be made that a premium product is not necessary, you can purchase a perfectly good machine for $1000 and it will do the same job. Again this is not the case, the speed, reliability and long term gains made when buying a higher end machine, PC or Mac can not be argued.  Developers running multiple virtual machines will spend more time working than waiting with a faster machine, designers working on complex site designs will spend more time designing than waiting for Photoshop or other programs to catch up.  Furthermore, it is expected of Brightlabs staff to produce the highest quality product possible, it seems reasonable for staff to be provided with high quality tools to produce these products.    
 
 
 Maintenance and Support:
