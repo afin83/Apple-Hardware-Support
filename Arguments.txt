@@ -1,30 +1,63 @@
-testing
 
-Arguments
+Introduction:
 
-Price is no longer a factor. This has been proven by the custom build from uMart (current supplier) and custom builds from dell for a similar specced machine. 
+With over a quarter of Brightlabs staff choosing to work on their own personal Mac's, the issue of whether or not Mac is a suitable fit for Brightlabs is becoming more and more relevant. The purpose of this report is to present a case for Brightlabs to purchase iMacs for those staff who wish to use Mac machines as their work computer.  This report does NOT take a Mac vs PC view, rather a series of issues will be presented and addressed (such as pricing and support) in an effort to provide the basis to an argument that those staff members who prefer to work on Mac are supported to do so.  
 
-Setup costs
+At the core of this report is the view that Brightlabs primary competitive advantage lies in the high quality product that is produced by the development and design teams. We are simply asking that high quality tools are provided to the staff responsible for producing these products.     
 
-Setup costs have been included in the above price estimates. The equivalent setup cost is 0.
+Pricing:
 
-Maintenance
+Apple has long been renowned for charging premium prices for their products.  This is no longer the case, with Apple switching a number of the components in its Mac product range from internally produced to out-sourced specialists, most notable being Intel as the main supplier of CPU's.  This has in-turn dramatically affected the pricing of Mac products.  
 
-Maintenance is less of an issue. Currently, we have 3 developers who can be roped into hardware support when necessary, as well as new machine setup. Takes valuable time away from developers doing what they are supposed to be doing. It also means we currently have a reliance on these staff members, and if they are predisposed we would have issues as they are our only level of hardware support. 
+Basically, price is no longer a factor.  Below is a cost comparison of Mac and PC; this includes a custom build from uMart (Brightlabs Current supplier) and custom builds from Dell - for similar specced machines. 
 
-AppleCare provides a very high level of support, with turnaround times comparable or better to having staff go to a local retailer and picking up replacement parts etc. It's also far better than dell hardware support (in my experience) 
+Custom Build:
+Mac = $2049
+PC = $2056 
+
+This is a direct hardware comparison, of which puts Mac $7 cheaper than the PC equivalent. However, there are still a range of other costs that must be considered when pricing equipment, including:
+
+- Assembling the machine (custom build) - 2hr build time at $100h, Mac ships built.
+- Researching parts and compatibility - 1hr at $100h, Mac has four options to choose from.
+
+This additional 3 hours adds at least $300 extra to the unit price of a custom built machine over an iMac equivalent. 
+
+Dell Build:
+Mac = $2049
+Dell = ??
+
+- Assembling the machine - NA
+- Researching parts and compatibility - NA  
+
+
+The counter to this argument is a number of the components included in the iMac are not necessary and a waste of money.  This is not true; the obvious extra expense is the large display - for the design team this is simply not an option, extra screen real-estate is key for improving efficiency when dealing with any design program (the 2560-by-1440 resolution is rare among display manufacturers).  For others, research conducted by independent technology research institute and consulting operation      
+
+
+Maintenance and Support:
+
+Currently, we have 3 developers who present the skill set required to provide adequate hardware support when necessary for PC machines, as well as new machine setup. This however is not ideal, as it takes valuable time away from developers doing what they are being paid to do. It also means we currently have a reliance on these staff members, and if they are predisposed it can have serious on-flowing impact on productivity. 
+
+Brightlabs is currently not at a size where it is feasible to have full-time IT support personnel, which makes the time and cost of maintenance and support even more critical. 
+
+For a price, a very high level of support can optionally be provided by AppleCare, with turnaround times comparable or better to having staff go to a local retailer and picking up replacement parts etc. It's also far better than the standard Dell hardware support (in my experience). If a machine requires replacement, a new one is typically available 24 hours after diagnosis. This fast turn-around, coupled with recent time-machine backups, means that a catastrophic hardware failure can result in very little lost productivity. 
 
 Passing on of Hardware
 
-Typically, when an existing machine is passed down to a new developer, or if we have a new staff member starting, the machine is formatted and set up anew. The cost for this is comparable to the new machine setup listed. If an Apple computer needed to be handed off to a new staff member, the setup time consists of the new user creating a new account.
+Typically, when an existing PC is passed down to a different developer, or if we have a new staff member starting, the machine is formatted and set up anew. The cost for this is comparable to the new machine setup listed above. This results in either a senior developer having to sacrifice time working on projects to install the new OS, drivers, security patches and applications. 
+
+When a new user needs to be set up on a Mac, all that needs to happen is for a new user account to be created. All user data, preferences, settings and files are kept completely separate per user, making the passing on of hardware a 5-minute affair. 
 
 Security
 
-OS-level security is higher, with a default set of elevated privileges required to install system-altering new software, change significant system settings etc. 
+OS-level security is higher, with a default set of elevated privileges required to install system-altering new software, change significant system settings etc. Users can, of course, be set up as an Administrator-level account if full system access is routinely required. 
 
 Flexibility
 
-If a machine needs to be passed down to a user who is not comfortable using OSX, Windows can be quickly and easily installed under BootCamp. A driver pack is included. Windows and OSX can then be easily dual booted to ensure the machine can fit a number of rolls. 
+While this may seem counter-intuitive at first, Macs can be quite flexible in the roles that they can perform in the business. 
+
+If a machine needs to be passed down to a user who is not comfortable using OSX, Windows can be quickly and easily installed under BootCamp. A fully supported driver pack is included, and any flavour of Windows can be installed. Windows and OSX can then be easily dual booted to ensure the machine can be used by the widest number of staff members.  
+
+The limited upgradability of an iMac can be seen as a disadvantage to it's PC brethren, but this is less of a downside than it appears. In the past 12 months the only PC upgrades which have occurred have been memory. The latest iMacs come with 4 SO-DIMM slots easily accessibly to be upgraded when necessary. The hard drive can also be upgraded, but it's not recommended. However, as the iMac comes standard with a 1tb hard drive, it is unlikely that a hard drive upgrade would be required before the machines end-of-life if used in the typical office environment. 
 
 If the machine does reach end-of-life, it can be repurposed as a screen only using the displayport input on the rear. 
 
@@ -52,4 +85,8 @@ THEIR ARGUMENTS
 
 They are purchasing equipment at the lowest possible price. Staff like Tyson and Andrew have built their own machines (afaik). Ignoring the fact that this is a stupid situation to put your staff in, it does mean that they may not want to pay a preimum for anything, no matter the cost. In this case, the initial hardware purchase can't be compared
 
-The screen. $800 of purchase price, and not something that everybody needs. 
+The screen. $800 of purchase price, and not something that everybody needs.
+
+Just making a change to test git
+
+ 
