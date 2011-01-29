@@ -11,19 +11,13 @@ Currently, we have 3 developers who present the skill set required to provide ad
 
 Brightlabs is currently not at a size where it is feasible to have full-time IT support personnel, which makes the time and cost of maintenance and support even more critical. 
 
-As an option when purchasing a new Mac, AppleCar can very high level of support, with turnaround times comparable or better to having staff go to a local retailer and picking up replacement parts etc. It's also far better than the standard Dell hardware support (in my experience). If a machine requires replacement, a new one is typically available 24 hours after diagnosis. This fast turn-around, coupled with recent time-machine backups, means that a catastrophic hardware failure can result in very little lost productivity. 
+As an option when purchasing a new Mac, AppleCare can provide a very high level of support, with turnaround times comparable or better to having staff go to a local retailer and picking up replacement parts etc. It's also far better than the standard Dell hardware support (in my experience). If a machine requires replacement, a new one is typically available 24 hours after diagnosis. This fast turn-around, coupled with recent time-machine backups, means that a catastrophic hardware failure can result in very little lost of productivity. 
 
 == Passing on of Hardware ==
 
-Typically, when an existing PC is passed down to a different developer, or if we have a new staff member starting, the machine is formatted and set up anew. The cost for this is comparable to the new machine setup listed above. This results in either a senior developer having to sacrifice time working on projects to install the new OS, drivers, security patches and applications. 
+Typically, when an existing PC is passed down to a different developer, or if we have a new staff member starting, the machine is formatted and set up anew. The cost for this is comparable to the new machine setup listed below (see pricing). This results in either a senior developer having to sacrifice time working on projects to install the new OS, drivers, security patches and applications. 
 
-When a new user needs to be set up on a Mac, all that needs to happen is for a new user account to be created. All user data, preferences, settings and files are kept completely separate per user, making the passing on of hardware a 5-minute affair. 
-
-== Security ==
-
-OS-level security is higher, with a default set of elevated privileges required to install system-altering new software, change significant system settings etc. Users can, of course, be set up as an Administrator-level account if full system access is routinely required. 
-
-The OSX operating system is built on a solid Unix foundation, and has very few known viruses in the wild, and virtually no spyware. While some will argue this is due to a lower install base, the level of spyware and viruses does not correlate with the market penetration of Apple products. This results in far less down-time due to infections, and a faster and more reliable software experience. 
+When a new user needs to be set up on a Mac, all that needs to happen is for a new user account to be created. All user data, preferences, settings and files are kept completely separate per user, making the passing on of hardware a 5-minute affair.  
 
 == Flexibility ==
 
@@ -39,11 +33,17 @@ If the machine does reach end-of-life, it can be repurposed as a high quality sc
 
 Even though Apple products have been officially 'unsupported' at Brightlabs, there have been virtually no compatibility issues in the last 12 months at least. If there were show-stopping issues involved supporting Apple hardware, we would have come across some by now. Also, the fact that there are no official hardware or software support personnel goes to show how little issues there have been. 
 
+== Security ==
+
+OS-level security is higher, with a default set of elevated privileges required to install system-altering new software, change significant system settings etc. Users can, of course, be set up as an Administrator-level account if full system access is routinely required. 
+
+The OSX operating system is built on a solid Unix foundation, and has very few known viruses in the wild, and virtually no spyware. While some will argue this is due to a lower install base, the level of spyware and viruses does not correlate with the market penetration of Apple products. This results in far less down-time due to infections, and a faster and more reliable software experience.
+
 == Pricing ==
 
 Apple has long been renowned for charging premium prices for their products.  Recently, Apple has started switching a number of the components in its Mac product range from internally produced to out-sourced specialists, most notable being Intel as the main supplier of CPU's.  This has in-turn dramatically affected the pricing of Mac products.  
 
- Below is a cost comparison of Mac and PC; this includes a custom build from uMart (Brightlabs Current supplier) and custom builds from Dell - for similar specced machines. 
+Below is a cost comparison of Mac and PC; this includes a custom build from uMart (Brightlabs Current supplier) and custom builds from Dell - for similar specced machines. 
 
 Hardware components only:
 27" iMac = $2049
@@ -54,7 +54,7 @@ This is a direct hardware comparison, of which puts Mac $7 cheaper than the PC e
 
 When performing a custom build, individual parts need to be researched to determine value and compatibility with the rest of the system. We have estimated this at a conservative 1 hour. 
 
-The custom machine also needs to be assembled. An experienced build could be reasonably assumed to have a running machine in 2 hours. 
+The custom machine also needs to be assembled. An experienced build could be reasonably assumed to have a running machine in 2 hours (this includes setup of OS and other software). 
 
 This additional 3 hours adds at least $300 extra (3 hours at $100 per hour) to the unit price of a custom built machine over an iMac equivalent. 
 
